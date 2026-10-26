@@ -1,15 +1,12 @@
 # Mini Shop Catalogue 🛍️
-
-**Developer:** NIYOMUBYEYI Nadine  
-**Project:** Mini Shop Catalogue  
+  
 **API:** [DummyJSON Products API Documentation](https://dummyjson.com/docs/products)  
 **API Endpoint:** https://dummyjson.com/products
 
-## 🔗 Project Links
+##  Project Links
 
 - **Live Demo:** https://week5-async-data-explorer.vercel.app
-- **Demo Video:** Add your demonstration video link.
-- **GitHub Repository:** Add your repository link.
+- **GitHub Repository:** https://github.com/niyomubyeyi150-sudo/week5-async-data-explorer.git
 
 ## 📖 About the Project
 
